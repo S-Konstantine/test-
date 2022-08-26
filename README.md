@@ -1,4 +1,2 @@
 # test-
-
-
-This is a new edit from my localhost computer 
+This is a second example.
